@@ -1,0 +1,17 @@
+2020-09-30 19:53:48,138 INFO Waiting for a connection
+2020-09-30 19:54:25,239 INFO client connected: ('127.0.0.1', 33076)
+
+2020-09-30 19:54:25,240 INFO Waiting for a connection
+2020-09-30 19:55:17,758 INFO commands from ('127.0.0.1', 33076): USER mohsen
+2020-09-30 19:55:27,160 INFO commands from ('127.0.0.1', 33076): PASS 1234
+2020-09-30 19:56:12,074 INFO commands from ('127.0.0.1', 33076): PWD
+2020-09-30 19:56:33,378 INFO Waiting for a connection
+2020-09-30 19:56:33,378 INFO client connected: ('127.0.0.1', 33086)
+
+2020-09-30 19:56:39,248 INFO commands from ('127.0.0.1', 33086): USER mohsen
+2020-09-30 19:56:44,871 INFO commands from ('127.0.0.1', 33086): PASS 1234
+2020-09-30 19:57:06,219 INFO commands from ('127.0.0.1', 33086): LIST
+2020-09-30 19:57:06,220 INFO Creating data socket on('0.0.0.0', 10020)...
+2020-09-30 19:57:06,221 INFO Data socket is started. Listening to('0.0.0.0', 10020)...
+2020-09-30 19:57:06,223 INFO Closing data socket connection...
+2020-09-30 20:02:10,348 INFO Closing socket connection
